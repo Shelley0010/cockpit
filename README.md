@@ -1,5 +1,13 @@
+这是智能车机座舱 GitHub 项目骨架，包含：
 
-这个压缩包目前是可作为GitHub仓库起点的架构工程，并未包含真实的网易云音乐、喜马拉雅、高德SDK实现。原因是：
+Android Automotive 项目结构
+网易云音乐接口层（NetEaseMusicService）
+喜马拉雅接口层（XimalayaService）
+高德导航接口层（AMapService）
+Gradle 配置
+MainActivity 示例
+
+- 这个压缩包目前是可作为GitHub仓库起点的架构工程，并未包含真实的网易云音乐、喜马拉雅、高德SDK实现。原因是：
 
 网易云音乐车载开放平台需要官方授权API Key。
 喜马拉雅开放平台需要AppKey/AppSecret。
